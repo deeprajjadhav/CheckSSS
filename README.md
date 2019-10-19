@@ -1,1 +1,0 @@
-# QopperSDK_Android
